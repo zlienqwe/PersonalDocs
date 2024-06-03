@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20240530.md",
+                "file": "20250603.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20240530.md",
+                "file": "20250603.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20240530.md",
+                "file": "20250603.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20240530.md"
+                "file": "20250603.md"
               }
             }
           }
@@ -147,15 +147,16 @@
   },
   "active": "c9a675c27a6bb77b",
   "lastOpenFiles": [
+    "20240527.md",
+    "20240528.md",
+    "20240529.md",
     "20240530.md",
+    "20250603.md",
+    "日报.md",
     "Pasted image 20240530201703.png",
     "Pasted image 20240530201618.png",
     "Pasted image 20240530201615.png",
     "Pasted image 20240530201611.png",
-    "20240527.md",
-    "20240529.md",
-    "20240528.md",
-    "日报.md",
     "日报"
   ]
 }
